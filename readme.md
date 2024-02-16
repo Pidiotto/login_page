@@ -4,10 +4,10 @@ Esta é uma página de login estilizada criada em HTML, CSS e JavaScript para fi
 
 ## Tecnologias Utilizadas
 
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![SweetAlert](https://img.shields.io/badge/SweetAlert-2-red)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ## Funcionalidades
 
@@ -17,7 +17,7 @@ Esta é uma página de login estilizada criada em HTML, CSS e JavaScript para fi
 
 ## Preview
 
-![Print da Página de Login](https://raw.githubusercontent.com/Pidiotto/login_page/a66239c5446b4809ad8ec8467a30598d28ee3577/screenshot.png)
+![Print da Página de Login](https://github.com/Pidiotto/login_page/blob/main/print.png)
 
 ## Como Utilizar
 
