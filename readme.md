@@ -1,29 +1,27 @@
-# Página de Login Estilizada
+# Página de Login Estilizada 🚀
 
-Esta é uma página de login estilizada criada em HTML, CSS e JavaScript para fins de estudo. A página inclui animações e oferece áreas para login e cadastro de usuários.
+Bem-vindo ao projeto de uma página de login estilizada! Este projeto foi criado com HTML, CSS e JavaScript como parte de um estudo sobre desenvolvimento web. Ele possui animações e áreas dedicadas para login e cadastro.
 
-## Tecnologias Utilizadas
-
+## Tecnologias Utilizadas 🛠️
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- SweetAlert.js
 
+## Funcionalidades 🎨
+- Área para login
+- Área para cadastro
+- Animações de transição
 
-## Funcionalidades
+## Visualização Online 🌐
+Você pode visualizar a página de login estilizada [aqui](https://login-page-bice-five.vercel.app/).
 
-- Área de login com animações
-- Área de cadastro de novos usuários
-- Header com links para Home, Sobre, Contato e Login
+## Captura de Tela 🖼️
+![Página de Login](https://github.com/Pidiotto/login_page/raw/main/print.png)
 
-## Preview
+## Uso 🚀
+Basta clonar o repositório e abrir o arquivo `index.html` em seu navegador para visualizar a página.
 
-![Print da Página de Login](https://github.com/Pidiotto/login_page/blob/main/print.png)
+## Contribuindo 🤝
+Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do projeto e enviar suas melhorias através de pull requests.
 
-## Como Utilizar
-
-1. Faça o clone deste repositório: `git clone https://github.com/Pidiotto/login_page.git`
-2. Abra o arquivo `index.html` em seu navegador web.
-
-## Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
